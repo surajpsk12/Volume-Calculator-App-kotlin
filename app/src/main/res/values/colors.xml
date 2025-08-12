@@ -2,4 +2,22 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Sunset Orange Theme Colors -->
+    <color name="primary_color">#ea580c</color>          <!-- Orange 600 -->
+    <color name="secondary_color">#fb923c</color>        <!-- Orange 400 -->
+    <color name="accent_color">#f59e0b</color>           <!-- Amber 500 -->
+    <color name="background_color">#fffbeb</color>       <!-- Amber 50 -->
+    <color name="text_color">#92400e</color>             <!-- Orange 800 -->
+
+    <!-- Additional complementary colors -->
+    <color name="primary_dark">#c2410c</color>           <!-- Orange 700 -->
+    <color name="secondary_light">#fed7aa</color>        <!-- Orange 200 -->
+    <color name="accent_light">#fef3c7</color>           <!-- Amber 100 -->
+    <color name="surface_color">#fefce8</color>          <!-- Amber 25 -->
+    <color name="on_surface">#78350f</color>             <!-- Amber 900 -->
+
+    <!-- Status bar and system colors -->
+    <color name="status_bar_color">#c2410c</color>
+    <color name="ripple_color">#33ea580c</color>         <!-- Primary with 20% opacity -->
 </resources>

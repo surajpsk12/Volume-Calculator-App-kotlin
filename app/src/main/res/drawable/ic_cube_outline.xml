@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Simple cube outline for input field -->
+    <path
+        android:strokeColor="@color/primary_color"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M4,6L4,18L16,18L16,6L4,6Z" />
+
+    <!-- Top edge -->
+    <path
+        android:strokeColor="@color/primary_color"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M4,6L8,2L20,2L16,6" />
+
+    <!-- Side edge -->
+    <path
+        android:strokeColor="@color/primary_color"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M16,6L20,2L20,14L16,18" />
+
+</vector>

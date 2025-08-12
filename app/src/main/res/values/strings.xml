@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">VolumeCalculatorApp</string>
+    <string name="prism_volume">Prism Volume</string>
+    <string name="enter_base_area">Enter Base Area</string>
+    <string name="please_enter_the_base_area">     </string>
+    <string name="enter_height">Enter Height</string>
+    <string name="enter_the_height">     Enter the height</string>
+    <string name="formula">Formula:</string>
 </resources>

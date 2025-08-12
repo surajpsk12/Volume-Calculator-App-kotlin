@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Prism front face (rectangular) -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M4,4L4,20L14,20L14,4L4,4ZM6,6L12,6L12,18L6,18L6,6Z"
+        android:fillAlpha="0.9" />
+
+    <!-- Prism top face (parallelogram for 3D effect) -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M4,4L8,2L18,2L14,4L4,4Z"
+        android:fillAlpha="0.7" />
+
+    <!-- Prism right face (parallelogram for 3D effect) -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M14,4L18,2L18,18L14,20L14,4Z"
+        android:fillAlpha="0.5" />
+
+    <!-- Prism edges for definition -->
+    <path
+        android:strokeColor="@color/white"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M4,4L8,2M14,4L18,2M14,20L18,18" />
+
+</vector>
