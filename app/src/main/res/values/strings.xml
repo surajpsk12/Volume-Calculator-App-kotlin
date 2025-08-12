@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VolumeCalculatorApp</string>
+    <string name="app_name">Volume Calculator App</string>
     <string name="prism_volume">Prism Volume</string>
     <string name="enter_base_area">Enter Base Area</string>
     <string name="please_enter_the_base_area">     </string>
